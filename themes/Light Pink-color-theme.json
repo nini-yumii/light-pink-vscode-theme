@@ -40,8 +40,8 @@
 		"statusBar.debuggingBackground":"#ffc7d8",
 		"statusBarItem.remoteBackground":"#8B6F5F",
 		"activityBar.background":"#FAE6EC",
-		"activityBar.foreground":"#ffd1df",
-		"activityBarBadge.background":"#ffd6e2",
+		"activityBar.foreground":"#ffd4e1",
+		"activityBarBadge.background":"#ffcbdb",
 		"titleBar.activeBackground":"#FAE6EC",
 		"titleBar.activeForeground": "#5c4f47",
 		"button.background":"#ffc7d8",
@@ -88,7 +88,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#1F6E89"
+				"foreground": "#891f4d"
 			}
 		},
 		{
@@ -205,7 +205,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#1F6E89"
+				"foreground": "#891f44"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#91B3E0"
+				"foreground": "#e091b0"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#1F6E89"
+				"foreground": "#891f49"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#1F6E89"
+				"foreground": "#891f3f"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 			"name":"diff: inserted",
 			"scope":"markup.inserted.diff",
             "settings":{
-				"foreground":"#1F6E89"
+				"foreground":"#891f3d"
 			}
 		},
         {
