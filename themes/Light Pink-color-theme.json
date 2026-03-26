@@ -40,7 +40,7 @@
 		"statusBar.debuggingBackground":"#ffc7d8",
 		"statusBarItem.remoteBackground":"#8B6F5F",
 		"activityBar.background":"#FAE6EC",
-		"activityBar.foreground":"#ffd4e1",
+		"activityBar.foreground":"#ffc7d8",
 		"activityBarBadge.background":"#ffcbdb",
 		"titleBar.activeBackground":"#FAE6EC",
 		"titleBar.activeForeground": "#5c4f47",
