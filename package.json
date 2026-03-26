@@ -16,6 +16,16 @@
     "light",
     "pink"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nini-yumii/light-pink-vscode-theme"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#ffdce9",
+    "theme": "light"
+  },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
