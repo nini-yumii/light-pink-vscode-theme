@@ -1,9 +1,9 @@
 {
   "name": "light-pink-theme",
   "displayName": "Light Pink",
-  "description": "A soft, pastel light pink VS Code theme with warm browns and gentle accents",
+  "description": "A soft, pastel light pink VS Code theme",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "publisher": "nini-yumii",
   "engines": {
     "vscode": "^1.60.0"
   },
