@@ -494,6 +494,16 @@
 			}
 		},
         {
+			"name":"Brackets",
+			"scope":[
+				"punctuation.section",
+				"meta.brace"
+			],
+            "settings":{
+				"foreground":"#D98CB5"
+			}
+		},
+        {
 			"name":"JSX: Tags",
 			"scope":[
 				"punctuation.definition.tag.js",
