@@ -2,7 +2,7 @@
   "name": "light-pink-theme-by-nini",
   "displayName": "Light Pink Theme by nini.ഒ",
   "description": "A soft, pastel light pink VS Code theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "nini-yumii",
   "engines": {
     "vscode": "^1.60.0"
