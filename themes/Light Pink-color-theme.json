@@ -62,11 +62,11 @@
         "list.dropBackground": "#FAE6EC",
         
         /* --- Bracket Color Fixes --- */
-        "editorBracketHighlight.foreground1": "#ffcbdb",
+        "editorBracketHighlight.foreground1": "#ffbacf",
         "editorBracketHighlight.foreground2": "#E59FB4",
         "editorBracketHighlight.foreground3": "#a07a6b",
         "editorBracketHighlight.unexpectedBracket.foreground": "#D2304B",
-        "editorBracketPairGuide.activeBackground1": "#ffcbdb",
+        "editorBracketPairGuide.activeBackground1": "#ffbacf",
         "editorBracketPairGuide.activeBackground2": "#E59FB4",
         "editorBracketPairGuide.activeBackground3": "#a07a6b"
     },
@@ -118,7 +118,7 @@
             "name": "Operators",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -159,7 +159,7 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -242,7 +242,7 @@
             "name": "Punctuation",
             "scope": "punctuation",
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -266,7 +266,7 @@
                 "punctuation.definition.tag.end.html"
             ],
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -316,7 +316,7 @@
                 "support.type.property-name"
             ],
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -435,7 +435,7 @@
             "name": "Markup Lists",
             "scope": "markup.list",
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -509,7 +509,7 @@
                 "meta.brace"
             ],
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
@@ -520,7 +520,7 @@
                 "punctuation.definition.tag.end.js"
             ],
             "settings": {
-                "foreground": "#ffcbdb"
+                "foreground": "#ffbacf"
             }
         },
         {
