@@ -80,7 +80,6 @@
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#a07a6b"
-            }
         },
         {
             "name": "Comments: Preprocessor",

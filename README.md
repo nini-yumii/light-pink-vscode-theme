@@ -4,7 +4,7 @@
 
 ## 🖼️ Preview
 
-<!-- ![Theme Overview](./images/theme.png) -->
+![Theme Overview](./images/theme.png)
 
 ## 🎨 Color Palette
 
