@@ -34,4 +34,4 @@
 
 ---
 
-*Made with whimsical energy by nini..ഒ*
+*Made by nini.ഒ*
