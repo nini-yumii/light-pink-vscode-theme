@@ -9,7 +9,7 @@
     "variable.constant": {
       "foreground": "#fd78b2"
     },
-    "variable.defaultLibrary": {
+    "variable.defaultLibrary": {  
       "foreground": "#f594be"
     }
   },
@@ -1937,8 +1937,8 @@
     "editor.rangeHighlightBackground": "#ffdee8c3",
     "editor.rangeHighlightBorder": "#ffe4ecc3",
     "editor.hoverHighlightBackground": "#ffe4ecc3",
-    "editor.wordHighlightStrongBackground": "#ffa3ebc3",
-    "editor.wordHighlightBackground": "#ffa3ebc3",
+    "editor.wordHighlightStrongBackground": "#ffe5edc3",
+    "editor.wordHighlightBackground": "#ffe5edc3",
     "editor.lineHighlightBackground": "#ffffff0A",
     "editor.lineHighlightBorder": "#ffeaf089",
     "editorLineNumber.activeForeground": "#ffe4ecc3",
